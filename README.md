@@ -1,6 +1,6 @@
 ## HacktoberFest_2021
 
-![This is an image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fhacktoberfest.digitalocean.com%2F&psig=AOvVaw08O-IBrsQxfLdU0eIw9A25&ust=1633332427097000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKD0-8rbrfMCFQAAAAAdAAAAABAD)
+![Hacktoberfest--2021](https://user-images.githubusercontent.com/60610128/135744545-b457143b-4741-4f9c-8ecf-f5a6494b5a9a.jpg)
 
 ## Rules to contribute to this Repo
 
