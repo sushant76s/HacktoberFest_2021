@@ -1,5 +1,10 @@
 ## HacktoberFest_2021
 
+## Rules to contribute to this Repo
+
+*Use any language
+**C, C++, JAVA, Python, Data Structure and Algorithms, HTML, CSS, Android Projects.
+
 | Programs  | Link |
 | ------------- | ------------- |
 | Hollow_Square_X_Star_Pattern |[Code](https://github.com/susverma/HacktoberFest_2021/blob/main/Hollow_Square_X_Star_Pattern) |
