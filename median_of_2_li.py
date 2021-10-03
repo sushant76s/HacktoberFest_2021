@@ -3,7 +3,7 @@ def median(a, b):
 	if len(a) > len(b):
 		return median(b, a)
 
-	x, y = len(arr), len(b)
+	x, y = len(a), len(b)
 	low = 0
 	high = x
 	while low <= high:
@@ -13,12 +13,12 @@ def median(a, b):
 		if partitionX == 0:
 			maxLeftX = -1*sys.maxsize
 		else:
-			maxLeftX = a[partitonX - 1]
+			maxLeftX = a[partitionX - 1]
 
 		if partitionY == 0:
 			maxLeftY = -1*sys.maxsize
 		else:
-			maxLeftY = a[partitonY - 1]
+			maxLeftY = b[partitionY - 1]
 
 		if partitionX == x:
 			minRightX = sys.maxsize
@@ -33,17 +33,20 @@ def median(a, b):
 		if maxLeftX <= minRightY and maxLeftY <= minRightX:
 
 			if (x + y) % 2 == 0:
-				return max(max(maxLeftX, maxLeftY) + min(minRightY, minRightX)) / 2
+				return (max(maxLeftX, maxLeftY) + min(minRightY, minRightX)) // 2
 			else:
 				return max(maxLeftX, maxLeftY)
 
 		elif maxLeftX > minRightY:
-			high = partitionx - 1
+			high = partitionX - 1
 		else:
 			low = partitionX + 1
 
 	return -1
 
-x = [int(i) for x in input().split()]
-y = [int(j) for y in input().split()]
+x = list(map(int, input().split()))
+y = list(map(int, input().split()))
+
+
+print(median(x, y))
 
