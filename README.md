@@ -1,4 +1,4 @@
-# HacktoberFest_2021
+## HacktoberFest_2021
 
 | Programs  | Link |
 | ------------- | ------------- |
@@ -9,3 +9,11 @@
 | GCD|[Code](https://github.com/susverma/HacktoberFest_2021/blob/main/gcd.py)|
 | square pattern |[Code](https://github.com/susverma/HacktoberFest_2021/blob/main/square_pattern.py)|
 | swap case |[Code](https://github.com/susverma/HacktoberFest_2021/blob/main/swap_case.py)|
+
+## Steps for Contribution
+
+1. Fork this repo
+2. Star this repo
+3. Add a file
+4. commit the code
+5. Make pull request
