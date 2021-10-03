@@ -2,8 +2,9 @@
 
 ## Rules to contribute to this Repo
 
-*Use any language
-**C, C++, JAVA, Python, Data Structure and Algorithms, HTML, CSS, Android Projects.
+***
+> Use any language
+> C, C++, JAVA, Python, Data Structure and Algorithms, HTML, CSS, Android Projects.
 
 | Programs  | Link |
 | ------------- | ------------- |
