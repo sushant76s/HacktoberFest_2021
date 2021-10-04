@@ -11,11 +11,9 @@ def binarySsearch(arr:list, low:int, high:int, x:int):
 
         else:
             return binary_search(arr, mid + 1, high, x)
- 
+
     else:
-
         return -1
-
 n:int = int(input("Enter the max index")) 
 arr:list = []
 for i in range(n):

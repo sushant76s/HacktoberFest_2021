@@ -28,3 +28,4 @@
 | GCD|[Code](https://github.com/susverma/HacktoberFest_2021/blob/main/gcd.py)|
 | square pattern |[Code](https://github.com/susverma/HacktoberFest_2021/blob/main/square_pattern.py)|
 | swap case |[Code](https://github.com/susverma/HacktoberFest_2021/blob/main/swap_case.py)|
+| Binary search python |[Code](https://github.com/susverma/HacktoberFest_2021/blob/main/binarysearch-python.py)|
