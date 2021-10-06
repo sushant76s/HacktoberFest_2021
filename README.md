@@ -29,3 +29,5 @@
 | square pattern |[Code](https://github.com/susverma/HacktoberFest_2021/blob/main/square_pattern.py)|
 | swap case |[Code](https://github.com/susverma/HacktoberFest_2021/blob/main/swap_case.py)|
 | Binary search python |[Code](https://github.com/susverma/HacktoberFest_2021/blob/main/binarysearch-python.py)|
+| Fixed Size Sliding Window |[Code](https://github.com/susverma/HacktoberFest_2021/blob/main/ fixedsizeslidingwindow.py)|
+
